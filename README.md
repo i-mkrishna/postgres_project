@@ -27,10 +27,7 @@ postgresSQL/
 - **skills_job_dim.csv** - Skills-job relationship table
 
 **Google Drive Links:**
-- [Link 1 - company_dim.csv]() *(To be added)*
-- [Link 2 - job_postings_fact.csv]() *(To be added)*
-- [Link 3 - skills_dim.csv]() *(To be added)*
-- [Link 4 - skills_job_dim.csv]() *(To be added)*
+- (https://drive.google.com/drive/folders/1egWenKd_r3LRpdCf4SsqTeFZ1ZdY3DNx?usp=sharing)
 
 ## 🗄️ Database Setup
 
@@ -95,16 +92,34 @@ The `images/` folder contains charts and graphs generated from the analysis:
 
 ### Global Market Visualizations
 - `top_paying_jobs_anywhere.png` - Global top-paying jobs chart
+- ![top_paying_jobs_anywhere](https://github.com/user-attachments/assets/7536947f-ba74-4c78-9018-ea5a427a5d97)
+
 - `top_paying_skills_anywhere.png` - Global top-paying skills chart
+- ![top_paying_skills_anywhere](https://github.com/user-attachments/assets/c594ce06-f975-4592-94e2-9e635af3c656)
+
 - `top_demanded_skills_anywhere.png` - Global demanded skills chart
+- ![top_demanded_skills_anywhere](https://github.com/user-attachments/assets/6366e66b-1ea3-4fa2-9b49-39b66d8f3da6)
+
 - `top_job_titles_anywhere.png` - Global job titles analysis
+- ![top_job_titles_anywhere](https://github.com/user-attachments/assets/26f28bd6-167d-498f-bf1d-c3f030ec26d3)
+
 - `optimal_skills_anywhere.png` - Global optimal skills combination
+- ![optimal_skills_anywhere](https://github.com/user-attachments/assets/dce8cfb6-987c-40a4-b9c3-62a2d182b724)
+
 
 ### India Market Visualizations
 - `top_paying_jobs_india.png` - India top-paying jobs chart
+- ![top_paying_jobs_india](https://github.com/user-attachments/assets/50919bb4-574c-486d-9645-f8951d48a3f0)
+
 - `top_paying_skills_india.png` - India top-paying skills chart
+- ![top_paying_skills_india](https://github.com/user-attachments/assets/2b7efd21-e06d-49e8-aa78-4d6feb1eebf1)
+
 - `top_demanded_skills_india.png` - India demanded skills chart
+- ![top_demanded_skills_india](https://github.com/user-attachments/assets/5f8b1319-64bd-42c9-8ee3-f548883a2397)
+
 - `top_job_titles_india.png` - India job titles analysis
+- ![top_job_titles_india](https://github.com/user-attachments/assets/920cca99-d8c1-4f73-9da3-f4781f3294d2)
+
 
 ## 🚀 Getting Started
 
@@ -147,18 +162,6 @@ This analysis provides valuable insights for:
 - **CSV** - Data storage and sharing
 - **Data Visualization** - Charts and graphs for insights
 
-## 📝 License
+## 🎓 What I Learned
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Contact
-
-For questions or suggestions, please open an issue in the repository.
-
----
-
-*Last updated: [Current Date]* 
+Through this project, I gained hands-on experience with PostgreSQL, advanced SQL queries, and data analysis. I learned to translate business questions into analytical queries, create meaningful visualizations, and manage version control with Git. Most importantly, I discovered how to extract actionable insights from raw job market data to inform career decisions.
