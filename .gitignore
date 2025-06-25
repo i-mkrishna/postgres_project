@@ -1,0 +1,32 @@
+write gitignore file for the project
+
+# IDE and Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# CSV files folder
+csv_files/
+
+# SQL load folder - only include specific database files
+sql_load/*
+!sql_load/1_create_database.sql
+!sql_load/2_create_database.sql
+!sql_load/3_modify_database.sql
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
